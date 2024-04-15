@@ -4,7 +4,7 @@ title = ""
 weight = 3
 +++
 
-![Compact-Curriculum logo](/directory/images/compact_curriculum.jpg?width=30vw&classes=shadow)
+![Compact-Curriculum logo](/Directory/images/compact_curriculum.jpg?width=30vw&classes=shadow)
 
 &nbsp;
 
