@@ -1,4 +1,4 @@
-baseURL = 'https://bio-recap.github.io/directory/'
+baseURL = 'https://bio-recap.github.io/Directory/'
 languageCode = 'en-us'
 title = 'Directory'
 theme = 'study_blog_relearn'
